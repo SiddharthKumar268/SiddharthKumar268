@@ -92,11 +92,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthkumar241&show_icons=true&locale=en&layout=compact&theme=default&bg_color=ffffff" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharthkumar268&show_icons=true&locale=en&layout=compact&theme=default&bg_color=ffffff" alt="Top Languages" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthkumar241&show_icons=true&locale=en&theme=default&bg_color=ffffff" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthkumar268&show_icons=true&locale=en&theme=default&bg_color=ffffff" alt="GitHub Stats" height="200"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthkumar241&theme=default" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthkumar268&theme=default" alt="GitHub Streak" height="200"/>
 </p>
 <br>
 <h3 align="center">🐍 GitHub Contribution Snake</h3>
