@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=siddharthkumar268&label=Profile%20Views&color=667EEA&style=flat-square)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiddharthkumar268&count_bg=%23667EEA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 ![Followers](https://img.shields.io/github/followers/siddharthkumar268?label=Followers&style=flat-square&color=667EEA&logo=github)
 ![Stars](https://img.shields.io/github/stars/siddharthkumar268?label=Total%20Stars&style=flat-square&color=667EEA)
 
