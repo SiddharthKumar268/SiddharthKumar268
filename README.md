@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Social Badges -->
-
+![Profile Views](https://komarev.com/ghpvc/?username=siddharthkumar268&label=Profile%20Views&color=667EEA&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/siddharthkumar268?label=Followers&style=flat-square&color=667EEA&logo=github)
 ![Stars](https://img.shields.io/github/stars/siddharthkumar268?label=Total%20Stars&style=flat-square&color=667EEA)
 
