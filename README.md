@@ -22,7 +22,8 @@
 <br/>
 
 ## 👨‍💻 About Me
-
+<div align="left">
+    
 ```javascript
 const siddharth = {
     pronouns: "He/Him",
@@ -49,6 +50,7 @@ const siddharth = {
 ```
 
 <br/>
+<div/>
 
 ---
 
