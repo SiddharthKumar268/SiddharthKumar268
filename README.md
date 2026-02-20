@@ -29,6 +29,7 @@ const siddharth = {
     pronouns: "He/Him",
     location: "VIT, India 🇮🇳",
     role: "Aspiring Full Stack Developer",
+    achievement: "Yantra Proctor-Proctee Hackathon Winner 🏆",
     currentProject: "Apna_Adda - Community Platform",
     languages: ["JavaScript", "Java", "C++", "C", "SQL"],
     askMeAbout: ["Web Dev", "DSA", "React", "Node.js", "MongoDB"],
