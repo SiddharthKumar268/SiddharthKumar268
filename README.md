@@ -64,7 +64,7 @@ const siddharth = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [![Apna_Adda](https://img.shields.io/badge/Apna__Adda-FF4458?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddharthKumar268/Apna__Adda) | A social community platform connecting people together | React • Node.js • MongoDB • Express |
-| [![NextGen_Ride](https://img.shields.io/badge/NextGen__Ride-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddharthKumar268/NextGen_Ride) | Next generation ride sharing platform | Modern • Scalable • Efficient |
+| [![Bond Beyond](https://img.shields.io/badge/Bond_Beyond-667EEA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddharthKumar268/Bond_Beyond.git) | Adaptive Burnout prediction system | Modern • Scalable • Efficient |
 | [![Anugrah](https://img.shields.io/badge/Anugrah-F85D7F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddharthKumar268/Anugrah) | Responsive donation form with authentication | CSS • HTML • JavaScript |
 | [![Anveshak](https://img.shields.io/badge/Anveshak-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SiddharthKumar268/Anveshak) | Smart India Hackathon exploration platform | HTML • CSS • JavaScript |
 
