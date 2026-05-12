@@ -445,7 +445,4 @@ root@siddharth:~$ echo $THREAT_LEVEL
 _If my repos helped you, drop a_ ⭐ _— it adds to the reputation._
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,22,25&height=100&section=footer&animation=twinkling" width="100%"/>
-
 </div>
