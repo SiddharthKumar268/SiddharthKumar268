@@ -47,7 +47,7 @@
 
 | 🚀 Projects | 💼 Internships | 🏆 Hackathons | 🎓 CGPA | 📜 Certs | 💡 Patents |
 |:-----------:|:--------------:|:------------:|:-------:|:--------:|:---------:|
-| **9+** | **2** | **4+** | **9.22** | **6+** | **2** |
+| **9+** | **2** | **6+** | **9.24** | **2+** | **6+** |
 
 </div>
 
@@ -356,22 +356,84 @@
 
 <div align="center">
 
-```
-+----------------------------------------------------------+
-|          CURRENT OPERATIONS -- CLASSIFIED                |
-+----------------------------------------------------------+
-|  [ACTIVE]   Building Apna_Adda .............. (80%)     |
-|  [ACTIVE]   Portfolio UI Overhaul ........... (100%)    |
-|  [TRAINING] Advanced React Patterns ......... (80%)     |
-|  [TRAINING] System Design ................... (60%)     |
-|  [TRAINING] AWS Cloud Architecture .......... (50%)     |
-|  [SEEKING]  Open Source & Full Stack Collab             |
-|  [CONTACT]  kumarsiddharth166@gmail.com                 |
-+----------------------------------------------------------+
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=99999&color=C778DD&center=true&width=420&lines=▸+CURRENT+OPERATIONS+——+CLASSIFIED" alt=""/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔴-ACTIVE-c778dd?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/MISSION-Apna_Adda-c778dd?style=for-the-badge&labelColor=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/Progress-████████░░_80%25-c778dd?style=flat-square&labelColor=0d1117"/>
+<br/>
+<sub>Full-stack community platform · MERN Stack</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/MISSION-Advanced_React_Patterns-c778dd?style=for-the-badge&labelColor=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/Progress-████████░░_80%25-c778dd?style=flat-square&labelColor=0d1117"/>
+<br/>
+<sub>Context · Custom Hooks · Performance Patterns</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🟡-TRAINING-f59e0b?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/TRAINING-System_Design-f59e0b?style=for-the-badge&labelColor=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/Progress-██████░░░░_60%25-f59e0b?style=flat-square&labelColor=0d1117"/>
+<br/>
+<sub>HLD · LLD · CAP Theorem · Distributed Systems</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/TRAINING-AWS_Cloud_Architecture-f59e0b?style=for-the-badge&labelColor=0d1117"/>
+<br/>
+<img src="https://img.shields.io/badge/Progress-█████░░░░░_50%25-f59e0b?style=flat-square&labelColor=0d1117"/>
+<br/>
+<sub>EC2 · S3 · Lambda · CloudFormation</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🔬-RESEARCH-e06c9f?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/🟢-SEEKING-22c55e?style=flat-square&labelColor=0d1117"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/RESEARCH-NEFT_Fraud_Detection-e06c9f?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+<sub>IEEE/Springer · ML-based anomaly detection</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/SEEKING-SDE--1_Roles_%26_Collab-22c55e?style=for-the-badge&labelColor=0d1117"/>
+<br/><br/>
+<a href="mailto:kumarsiddharth166@gmail.com">
+<img src="https://img.shields.io/badge/📬-kumarsiddharth166@gmail.com-56b6c2?style=flat-square&labelColor=0d1117"/>
+</a>
+</td>
+</tr>
+</table>
 
 </div>
-
 <br/>
 
 <div align="center">
