@@ -18,27 +18,28 @@
 
 <br/>
 
-```yaml
-# ╔══════════════════════════════════════════════════════════════════╗
-# ║                  CLASSIFIED — PERSONNEL FILE                    ║
-# ║                    CLEARANCE: OMEGA LEVEL                       ║
-# ╚══════════════════════════════════════════════════════════════════╝
-
-codename   : "Siddharth Goutam Kumar"
-alias      : "The guy who deploys at 3 AM"
-class      : "Full Stack Developer  ·  Problem Solver"
-institute  : "VIT Vellore  |  B.Tech IT  |  CGPA: 9.22"
-status     : "████████████████████  ONLINE"
-currently  : "Building Apna_Adda — full-stack social platform"
-ask_me     : ["DSA", "JavaScript", "Java", "MERN Stack", "System Design"]
-contact    : "kumarsiddharth166@gmail.com"
-fun_fact   : "Can turn a 404 into hope 🚀"
-weakness   : null   # None detected
-```
-```
-root@siddharth:~$ echo $THREAT_LEVEL
-> ARMED AND DANGEROUS — 9+ projects shipped_
-```
+  ```yaml
+                          
+                                ╔══════════════════════════════════════════════════════════════════╗
+                                ║                  CLASSIFIED — PERSONNEL FILE                     ║
+                                ║                    CLEARANCE: OMEGA LEVEL                        ║
+                                ╚══════════════════════════════════════════════════════════════════╝
+                              
+                                codename   : "Siddharth Goutam Kumar"
+                                alias      : "The guy who deploys at 3 AM"
+                                class      : "Full Stack Developer  ·  Problem Solver"
+                                institute  : "VIT Vellore  |  B.Tech IT  |  CGPA: 9.22"
+                                status     : "████████████████████  ONLINE"
+                                currently  : "Building Apna_Adda — full-stack social platform"
+                                ask_me     : ["DSA", "JavaScript", "Java", "MERN Stack", "System Design"]
+                                contact    : "kumarsiddharth166@gmail.com"
+                                fun_fact   : "Can turn a 404 into hope 🚀"
+                                weakness   : null   # None detected
+                                ```
+                                ```
+                                root@siddharth:~$ echo $THREAT_LEVEL
+                                > ARMED AND DANGEROUS — 9+ projects shipped_
+  ```
 
 <br/>
 
