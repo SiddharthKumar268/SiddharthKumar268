@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,20,22,25&height=220&section=header&text=Siddharth%20Goutam%20Kumar&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=65&desc=Full%20Stack%20Developer%20%E2%80%A2%20VIT%20Vellore%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=82&descSize=16&descColor=c778dd" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=C778DD&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Siddharth+Kumar;Full-Stack+Developer+%E2%80%A2+VIT+Vellore+'27;I+speak+fluent+console.log()+%F0%9F%92%AC;Frontend+Ninja+%E2%9A%94+%7C+Backend+Beast+%F0%9F%94%A5;Turning+coffee+into+production+code+%E2%98%95;CGPA+9.22+%7C+9%2B+Projects+%7C+2+Internships+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=C778DD&center=true&vCenter=true&width=800&height=60&lines=Hi+%F0%9F%91%8B+I'm+Siddharth+Kumar;Full-Stack+Developer+%E2%80%A2+VIT+Vellore+'27;I+speak+fluent+console.log()+%F0%9F%92%AC;Frontend+Ninja+%E2%9A%94+%7C+Backend+Beast+%F0%9F%94%A5;Turning+coffee+into+production+code+%E2%98%95;CGPA+9.24+%7C+9%2B+Projects+%7C+2+Internships+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
