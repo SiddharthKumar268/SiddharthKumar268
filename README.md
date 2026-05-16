@@ -56,9 +56,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1&pause=99999&color=C778DD&center=true&width=300&lines=%E2%9A%99+TECH+ARSENAL" alt=""/>
-
 <br/><br/>
-
 <table>
 <tr>
 <td align="center" width="96">
