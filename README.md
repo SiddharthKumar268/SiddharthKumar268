@@ -28,7 +28,7 @@
                                 codename   : "Siddharth Goutam Kumar"
                                 alias      : "The guy who deploys at 3 AM"
                                 class      : "Full Stack Developer  ·  Problem Solver"
-                                institute  : "VIT Vellore  |  B.Tech IT  |  CGPA: 9.24"
+                                institute  : "VIT Vellore  |  B.Tech IT  |  CGPA: 9.30"
                                 status     : "████████████████████  ONLINE"
                                 currently  : "Building Apna_Adda — full-stack social platform"
                                 ask_me     : ["DSA", "JavaScript", "Java", "MERN Stack", "System Design"]
