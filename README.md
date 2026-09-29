@@ -485,14 +485,14 @@
 </a>
 </td>
 <td align="center">
-<a href="https://www.siddharthkumar.tech/" target="_blank">
+<a href="https://www.siddharthgoutam.me/" target="_blank">
 <img src="https://img.shields.io/badge/🌐-Portfolio-c778dd?style=flat-square&labelColor=0d1117" height="40"/>
 <br/>
 <img src="https://img.shields.io/badge/siddharthkumar.tech-c778dd?style=flat-square&labelColor=0d1117"/>
 </a>
 </td>
 <td align="center">
-<a href="https://drive.google.com/file/d/1KtbfF4Cl6jfDD2kUT6enERvCNXmtFY_f/view" target="_blank">
+<a href="https://drive.google.com/file/d/10U1LYw9PWNNWuI-vZ2zaLsH0cG4wLqx9/view?usp=drive_link" target="_blank">
 <img src="https://img.shields.io/badge/📄-Resume-56b6c2?style=flat-square&labelColor=0d1117" height="40"/>
 <br/>
 <img src="https://img.shields.io/badge/Download_CV-56b6c2?style=flat-square&labelColor=0d1117"/>
