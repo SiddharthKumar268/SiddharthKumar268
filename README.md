@@ -488,7 +488,7 @@
 <a href="https://www.siddharthgoutam.me/" target="_blank">
 <img src="https://img.shields.io/badge/🌐-Portfolio-c778dd?style=flat-square&labelColor=0d1117" height="40"/>
 <br/>
-<img src="https://img.shields.io/badge/siddharthkumar.tech-c778dd?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/siddharth_Portfolio-c778dd?style=flat-square&labelColor=0d1117"/>
 </a>
 </td>
 <td align="center">
